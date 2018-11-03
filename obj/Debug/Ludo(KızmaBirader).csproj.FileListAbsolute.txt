@@ -1,0 +1,6 @@
+C:\Users\akifc\Desktop\2-Ceng Ludo(KızmaBirader)\2-Ceng Ludo(KızmaBirader)\bin\Debug\2-Ceng Ludo(KızmaBirader).exe.config
+C:\Users\akifc\Desktop\2-Ceng Ludo(KızmaBirader)\2-Ceng Ludo(KızmaBirader)\bin\Debug\2-Ceng Ludo(KızmaBirader).exe
+C:\Users\akifc\Desktop\2-Ceng Ludo(KızmaBirader)\2-Ceng Ludo(KızmaBirader)\bin\Debug\2-Ceng Ludo(KızmaBirader).pdb
+C:\Users\akifc\Desktop\2-Ceng Ludo(KızmaBirader)\2-Ceng Ludo(KızmaBirader)\obj\Debug\Ludo(KızmaBirader).csprojResolveAssemblyReference.cache
+C:\Users\akifc\Desktop\2-Ceng Ludo(KızmaBirader)\2-Ceng Ludo(KızmaBirader)\obj\Debug\2-Ceng Ludo(KızmaBirader).exe
+C:\Users\akifc\Desktop\2-Ceng Ludo(KızmaBirader)\2-Ceng Ludo(KızmaBirader)\obj\Debug\2-Ceng Ludo(KızmaBirader).pdb
